@@ -1,0 +1,4 @@
+*.tmp
+/build
+gradle.properties
+/NhlStatistics1/build/
